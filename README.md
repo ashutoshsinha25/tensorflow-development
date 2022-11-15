@@ -4,6 +4,7 @@ This repository contains all the material and notebook of *Zero to Mastery Deep 
 
 
 # Course Progress log 
+  * 14th March 2022 - start repo 💻
   * 14th March 2022 - completed tensorflow fundamentals notebook
   * 18th March 2022 - completed regression with tensorflow notebook 
   * 13th April 2022 - food vision project 1st draft notebook 
