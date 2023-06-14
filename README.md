@@ -13,6 +13,7 @@ The repository includes notebooks covering the following topics:
 4. Convolutional Neural Networks with TensorFlow
 5. Classification with TensorFlow
 6. Transfer Learning: Part 1 (Feature Extraction) with TensorFlow
+7. more to come...
 
 # How to Use
 Feel free to explore the notebooks based on your interests or specific topics you want to learn. Each notebook provides detailed explanations, code implementations, and examples to help you grasp the concepts effectively. You can clone this repository and run the notebooks locally on your machine or view them directly on GitHub.
